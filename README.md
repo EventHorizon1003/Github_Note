@@ -29,3 +29,5 @@ Command list for Github
  - key.pub need to be uploaded to Github
 
 #ssh-add -K ~/.ssh/id_rsa
+
+#Refresh it 
